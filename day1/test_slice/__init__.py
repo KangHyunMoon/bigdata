@@ -12,3 +12,11 @@ print(data4['c':'f'])
 print(data4 > 60)
 
 print(data4[data4>60])
+
+print(data4.index)
+
+print(data4.values)
+
+print(data4.dtype)
+
+print(data4.size)

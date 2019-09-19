@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee956945-dd92-4632-b698-e6e870566b2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day1/test_pandas/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/NC Dinos.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/data-society-game-of-thrones/battles.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/data-society-game-of-thrones/character-deaths.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/data-society-game-of-thrones/character-predictions_pose.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/ex6.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/food_order.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/movielens/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/movielens/movies.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/movielens/ratings.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/movielens/users.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/us_presidental.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/0_유동인구_유동인구기본_2012.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/0_유동인구_유동인구기본_2013.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/0_유동인구_유동인구기본_2014.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/0_유동인구_유동인구기본_2015.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/1_유동인구_관찰조사_2012.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/1_유동인구_관찰조사_2013.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/1_유동인구_관찰조사_2014.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/1_유동인구_관찰조사_2015.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/2_유동인구_속성조사_2012.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/2_유동인구_속성조사_2013.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/2_유동인구_속성조사_2014.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/2_유동인구_속성조사_2015.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/4_유동인구_조사지점정보_2012.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/4_유동인구_조사지점정보_2013.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/4_유동인구_조사지점정보_2014.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/서울시유동인구/4_유동인구_조사지점정보_2015.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/data/인구수예제.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/3문자열슬라이싱.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/6pandas소개.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/Series소개.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/Series주요속성및함수.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/조건색인.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/1강/파이썬과학기술라이브러리.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/dataframe구조.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/dataframe구조NEW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/데이터프레임구조1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/데이터프레임구조2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/데이터프레임조회.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/2강/데이터프레임조회NEW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/3강/csv파일예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/3강/엑셀파일예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/4강/concat0예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/4강/concat1예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/4강/concat예제NC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/4강/merge예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/5강/NC안타홈런실습.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/5강/데이터프레임add.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/5강/산술연산.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/6강/NC계층색인예제.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/7강/데이터프레임정렬.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/7강/주요함수옵션.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/7강/통계함수.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/8강/그룹분석_groupby.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/8강/그룹분석_pivottable.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/예제실습/datetime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/예제실습/matplotlib인자.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/img/예제실습/그림의구조.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/test_slice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/test_slice/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,32 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day1/test/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day1/test_pandas/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" selection-start-line="33" selection-end-line="35" selection-end-column="43" />
-              <folding>
-                <element signature="e#19#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day1/test_slice/__init__.py">
+        <entry file="file://$PROJECT_DIR$/day1/test_data/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -130,6 +43,10 @@
         <option value="$PROJECT_DIR$/day1/test_pandas.py" />
         <option value="$PROJECT_DIR$/day1/test_slice.py" />
         <option value="$PROJECT_DIR$/day1/test_slice/__init__.py" />
+        <option value="$PROJECT_DIR$/day1/test_method.py" />
+        <option value="$PROJECT_DIR$/day1/test_method/__init__.py" />
+        <option value="$PROJECT_DIR$/day1/test_data.py" />
+        <option value="$PROJECT_DIR$/day1/test_data/__init__.py" />
       </list>
     </option>
   </component>
@@ -138,6 +55,9 @@
     <option name="y" value="31" />
     <option name="width" value="1155" />
     <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -160,7 +80,13 @@
               <item name="database" type="b2602c69:ProjectViewProjectNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="test_slice" type="462c0819:PsiDirectoryNode" />
+              <item name="test_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="test_method" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,7 +118,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.__init__ (2)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1/test_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/test_method/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day1/test_data/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="database" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,36 +224,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in day1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="database" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/day1&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_pandas.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="database" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/day1/test_pandas.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in test_slice.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="database" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python tests.pytest in test_slice.py" />
-        <item itemvalue="Python tests.pytest in day1" />
-        <item itemvalue="Python tests.pytest in test_pandas.py" />
       </list>
     </recent_temporary>
   </component>
@@ -358,13 +296,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="31" width="1155" height="767" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23992838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23992838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995809" visible="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995809" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,10 +337,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day1/test/__init__.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/test_slice/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -415,10 +362,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day1/test_slice/__init__.py">
+    <entry file="file://$PROJECT_DIR$/day1/test/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/test_method/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/test_data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
