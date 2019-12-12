@@ -2,7 +2,7 @@
 from selenium import webdriver
 import urllib.request
 
-global_scale = 18
+global_scale = 17
 # map scale
 
 global_axis_min_x = 14132249.5741648
@@ -22,9 +22,9 @@ def craw(min_x, min_y, max_x, max_y, style, scale):
 
     base_url = "https://map.pstatic.net/nrb/styles/"
 
-    for i in range(range_y):
-        for j in range(range_x):
-            url = base_url + style + "/1574408195/" + str(scale+1) + "/" + str(min_x + j) + "/" + str(min_y + i) + ".png?mt=bg"
+    for i in range(range_x):
+        for j in range(range_y):
+            url = base_url + style + "/1574408195/" + str(scale+1) + "/" + str(min_x + i) + "/" + str(min_y + j) + ".png?mt=bg"
 
             print(url)
 
