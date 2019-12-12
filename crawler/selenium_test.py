@@ -1,7 +1,7 @@
 from selenium import webdriver
 import urllib.request
 
-driver = webdriver.Chrome('./chromedriver')
+driver = webdriver.Chrome('./chromedriver/chromedriver')
 # ChromeDriver 78.0.3904.105
 # if this version is not correct to your computer,
 # go to "https://sites.google.com/a/chromium.org/chromedriver/downloads" and download fit version driver.
