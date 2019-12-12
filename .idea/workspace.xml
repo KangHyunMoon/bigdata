@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee956945-dd92-4632-b698-e6e870566b2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/crawler/Img_collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/Img_collector.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee956945-dd92-4632-b698-e6e870566b2f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="23" />
+    <option name="x" value="47" />
+    <option name="y" value="320" />
     <option name="width" value="1155" />
     <option name="height" value="767" />
   </component>
