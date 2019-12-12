@@ -63,5 +63,8 @@ def _main_():
     craw(min_x = int(min_x), min_y = int(min_y), max_x = int(max_x), max_y = int(max_y), style = "satellite", scale = global_scale)
     # 위성사진
 
+    craw(min_x=int(min_x), min_y=int(min_y), max_x=int(max_x), max_y=int(max_y), style="basic", scale=global_scale)
+    # 기본사진
+
 
 _main_()
