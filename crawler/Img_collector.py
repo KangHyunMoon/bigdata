@@ -1,6 +1,7 @@
 
 from selenium import webdriver
 import urllib.request
+import os, sys
 
 global_scale = 17
 # map scale
@@ -16,9 +17,16 @@ global_axis_max_y = 4462518.5186238
 
 def craw(min_x, min_y, max_x, max_y, style, scale):
 
+    try:
+        os.mkdir("./img_" + style)
+
+    except:
+        os.rmdir("./img_" + style)
+        os.mkdir("./img_" + style)
+
+
     range_x = max_x - min_x
     range_y = max_y - min_y
-
 
     base_url = "https://map.pstatic.net/nrb/styles/"
 
@@ -28,7 +36,7 @@ def craw(min_x, min_y, max_x, max_y, style, scale):
 
             print(url)
 
-            urllib.request.urlretrieve(url, "./img/" + str(i) + "_" + str(j) + '.png')
+            urllib.request.urlretrieve(url, "./img_" + style + "/" + str(i) + "_" + str(j) + '.png')
 
 
 def getImgSpot(axis_x, axis_y, scale):
